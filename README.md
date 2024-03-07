@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Arav1ndan
-- 👀 I’m interested in building games using Unity a self-taught game developer.
+- 👋 Hi, I’m @Arav1ndan a self-taught game developer.
+- 👀 I’m interested in building games using Unity.
 - 🌱 I’m currently learning unity in depth
 - 💞️ I’m looking to collaborate on new exciting projects with a good team that allows me and the team to grow together.
 - 📫 How to reach me [www.linkedin.com/in/aravindan-c-9389a4276](url)
