@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arav1ndan&label=Profile%20views&color=0e75b6&style=flat" alt="arav1ndan" /> </p>
 
-- 💬 Ask me about **Unity, Game Physic, Game desing**
+- 💬 Ask me about **Unity, Game Physic, Game design **
 
 - 📫 How to reach me **aravindanputhalath@gmail.com**
 
